@@ -1,5 +1,5 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/FrixQn/Test-Task-Softner/blob/main/README.md)
-[![ru](https://img.shields.io/badge/lang-ru-yellow.svg)](https://github.com/FrixQn/Test-Task-Softner/blob/main/README.ru-RU.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
+[![ru](https://img.shields.io/badge/lang-ru-yellow.svg)](README.ru-RU.md)
 
 <h1 align="center">Тестовое задание в компанию Softner</h1>
 
