@@ -31,6 +31,7 @@ When Stop is pressed – the scroll should stop smoothly (not abruptly) and alig
 
 ## Result
 ![Example](result.gif)
+📱 [APK](Result.apk)
 
 ## Stack:
 * **Unity 6**

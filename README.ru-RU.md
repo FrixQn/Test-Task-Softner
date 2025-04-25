@@ -30,6 +30,7 @@
 
 ## Результат
 ![Example](result.gif)
+📱 [APK](Result.apk)
 
 ## Стек:
 * **Unity 6**
